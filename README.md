@@ -61,7 +61,7 @@ The entry file for all the runs are `runs/run.py`.
 Before running, some settings need to be configured in the config file. 
 The codebase is designed to be experiment friendly for rapid development of new models and representation learning approaches, in that the config files are designed in a hierarchical way.
 
-For an example run, open `configs/projects/CLIPFSAR/ssv2_full/CLIPFSAR_SSv2_Full_1shot_ours.yaml`
+For an example run, open `configs/projects/ProLIPS/ssv2_full/ProLIPS_SSv2_Full_1shot_ours.yaml`
 
 A. Set `DATA.DATA_ROOT_DIR` and `DATA.DATA_ANNO_DIR` to point to the kinetics dataset, 
 
@@ -69,7 +69,7 @@ B. Set the valid gpu number `NUM_GPUS`
 
 Then the codebase can be run by (CUDA_VISIBLE_DEVICES can be modified) :
 ```
-CUDA_VISIBLE_DEVICES=0,1,2,3 python runs/run.py --init_method=tcp://localhost:9994 --cfg configs/projects/CLIPFSAR/ssv2_full/CLIPFSAR_SSv2_Full_1shot_ours.yaml
+CUDA_VISIBLE_DEVICES=0,1,2,3 python runs/run.py --init_method=tcp://localhost:9994 --cfg configs/projects/ProLIPS/ssv2_full/ProLIPS_SSv2_Full_1shot_ours.yaml
 ```
 
 
