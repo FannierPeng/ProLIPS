@@ -1,6 +1,6 @@
 Official Pytorch Implementation of [ProLIPS]()
 
-![](./Fig_overview.jpg)
+![](Fig_overview.jpg)
 
 This code is based on [CLIPFSAR](https://github.com/alibaba-mmai-research/CLIP-FSAR) and [pytorch-video-understanding](https://github.com/alibaba-mmai-research/TAdaConv) codebase, which provides a comprehensive video understanding solution for video classification and temporal detection.
 
