@@ -1,0 +1,271 @@
+Running: A man is jogging in the park, his step is brisk, his arms are swinging back and forth, his face is filled with a healthy red glow.
+Cooking: A woman is cooking in her kitchen. She carefully cuts vegetables and then sauts them in hot oil.
+Reading: A man is sitting in a corner of the library, reading a book intently, his eyes fixed on every word, as if he were deeply attracted by the world in the book.
+Dancing: A dancer rotates on the stage, her movements are elegant and smooth, every turn, every jump is full of power and beauty.
+Writing: A writer sits in front of a computer, his fingers rapping on the keyboard, his eyes focused, as if in dialogue with the inner world.
+wimming: A man is swimming freestyle in a swimming pool, his arms pulling strongly and his feet kicking gently in the water.
+Drawing: A little girl is sitting at a desk, her eyes fixed on the paper, the colored pencil in her hand leaving bright lines on the paper.
+Playing basketball: A young man is moving nimbly on a basketball court, his hands clasping the basketball and his eyes fixed firmly on the basket.
+Playing the piano: A pianist is sitting at the piano, his fingers moving quickly on the keyboard, beautiful music flowing in the air.
+Do yoga: A woman is doing various yoga moves on a yoga mat, her breath is long and steady, and her face is filled with a peaceful smile.
+Riding a bike: A boy is riding his bike on a bike path in a park, his pedals hurtling up and down, the wind blowing through his hair, his face beaming with joy.
+Planting FLOWERS: An old man was planting flowers in his garden. His hands gently dug the soil and then carefully planted the flowers, his face full of satisfaction and anticipation.
+Playing video games: A teenager sits in front of a computer, his fingers moving quickly over the keyboard and mouse, his eyes focused, completely immersed in the world of the game.
+Take a picture: A girl is taking a picture with a camera, her eyes look for the best Angle and light through the viewfinder, and then press the shutter to capture the beauty of that moment.
+Write a diary: A person sits at a desk, his hands hold a pen, his eyes are focused, he records his thoughts and feelings on paper.
+A person is climbing a mountain, his hands gripping the rocks, his steps moving steadily upward, his eyes are firm, full of longing for the peak.
+A girl is singing on stage, her voice is clear and pleasant, her eyes are full of confidence and passion, her singing echoes in the air.
+A man is making a phone call, his speech is fast and clear, his expression is focused, and his hand is holding the phone tightly.
+A programmer sits in front of a computer, his fingers tapping quickly on the keyboard, his eyes focused, his mind full of logic and innovation.
+A woman is making handicrafts, her hands gently operating the tools, her eyes focused, a beautiful piece of art slowly forming in her hands.
+A man is swinging a ping pong paddle quickly across the table, his eyes are focused, his steps are flexible, and his wrist is flexibly controlling the paddle.
+A girl is sitting in a movie theater, her eyes are fixed on the big screen, her face is full of excitement and anticipation, and she is holding popcorn in her hands.
+A student is sitting at a desk, his eyes are focused on the book, he is holding a pen in his hand, and his mind is full of new knowledge and ideas.
+A person is busy in the kitchen, his hand is flipping food in the pot, his eyes are focused, and the corners of his mouth are raised, obviously looking forward to the upcoming food.
+A woman is selecting goods in a store, her eyes are moving back and forth on the shelves, she is holding a shopping basket in her hand, and her face is filled with a satisfied smile.
+A man is swinging a badminton racket on the court, his eyes are focused, his steps are flexible, and his wrist is flexibly controlling the racket.
+A woman is sitting on the sofa, her eyes are fixed on the TV screen, her face is full of attention and thought, and she is holding a remote control in her hand.
+A student is sitting at a desk, his eyes are focused on the language textbook, he is holding a pen in his hand, and his mind is full of new words and grammar.
+A person is busy in the kitchen, his hands are kneading in the dough, his eyes are focused, and the corners of his mouth are raised, obviously looking forward to the upcoming pastries.
+A woman is selecting clothes in a mall, her eyes are moving back and forth on the shelves, she is holding a shopping bag in her hand, and her face is filled with a satisfied smile.
+A person is skiing on a snow mountain, his body is flexibly moving on the snow, his eyes are focused, and he is holding ski poles in his hands.
+A woman is visiting a patient in the hospital, her eyes are full of care and love, and she is gently holding the patient's hand.
+A student is sitting in the driver's seat, his eyes are focused on the road ahead, he is holding the steering wheel, and his foot is on the accelerator.
+A person is busy in the garden, his hands are digging in the soil, his eyes are focused, and the corners of his mouth are raised, obviously looking forward to the flowers to be planted.
+A woman is selecting new furniture in a furniture store, her eyes are moving back and forth on the shelves, she is holding a shopping cart in her hand, and her face is filled with a satisfied smile.
+A man is swinging a golf club on the grass, his eyes are focused, his steps are steady, and his wrist is flexibly controlling the club.
+A woman is sitting in a theater, her eyes are fixed on the stage, her face is full of excitement and anticipation, and she is holding a theater program in her hand.
+A student is standing in front of a mirror, his eyes are focused on his own movements, his hands and feet are moving flexibly in the air, and his mind is full of new dance steps.
+A person is busy in the kitchen, his hands are kneading in the dough, his eyes are focused, and the corners of his mouth are raised, obviously looking forward to the bread to be baked.
+A woman is selecting new shoes in a shoe store, her eyes are moving back and forth on the shelves, she is holding a shopping bag in her hand, and her face is filled with a satisfied smile.
+A man is swinging a volleyball on the beach, his eyes are focused, his steps are flexible, and his wrist is flexibly controlling the ball.
+A woman is sitting on the sofa, her eyes are fixed on the TV screen, her face is full of interest and curiosity, and she is holding a remote control in her hand.
+Bake a cake: A person is busy in the kitchen, his hands are kneading in the dough, his eyes are focused, and the corners of his mouth are raised, obviously looking forward to the cake to be baked.
+A woman is selecting new books in a bookstore.
+A man is swinging a baseball bat on the field, his eyes are focused, his steps are flexible, and his wrist is flexibly controlling the bat.
+A man is swinging a ping pong paddle quickly across the table, his eyes are focused, his steps are flexible, and his wrist is flexibly controlling the paddle.
+A man is standing in front of a pool table, his eyes are focused on the billiard balls, and his arm is swinging the cue steadily.
+A young woman is dancing gracefully and flexibly.
+A worker is hammering nails with focus and strength.
+An elderly person is leisurely walking, enjoying the sunlight and fresh air.
+A young couple is embracing, expressing deep affection.
+An athlete is running, sweat glistening in the sunlight.
+A young man is skateboarding, moving swiftly.
+A female chef is stir-frying ingredients in a pan, flames dancing.
+A gentleman is practicing Tai Chi, moving smoothly and maintaining balance.
+A young girl is jumping rope, keeping a lively rhythm.
+A worker is drilling a hole with a power drill, focused and strong.
+A young woman is skiing, with snowflakes swirling around her.
+A male painter is creating, his brush dancing on the canvas.
+An elderly farmer is working in the field, sweat dripping onto the soil.
+A girl is riding a bicycle, the wind tousling her hair.
+A doctor is performing surgery on a patient, focused and meticulous.
+A man was playing a guitar, his fingers expertly sliding over the strings of the guitar, creating a beautiful melody.
+A man in sportswear is jogging in the park.
+A little girl is drawing on a piece of paper with colored pencils.
+A chef is busily cooking in the kitchen, which is filled with various ingredients.
+An old man is reading a book attentively in a quiet library.
+A child is happily playing with sand on the beach, making various shapes.
+A worker is repairing a car in the garage, his hands covered in grease.
+A doctor is carefully examining a patient's physical condition in the clinic.
+A teacher is explaining a complex math problem to students in the classroom.
+An athlete is warming up on the sports field, preparing for a competition.
+A farmer is plowing the field in the countryside, preparing for sowing.
+A young man is skateboarding on the street, his movements are very skilled.
+A lady is choosing flowers in a flower shop, her face is filled with a happy smile.
+A police officer is directing traffic at a busy intersection.
+A construction worker is installing windows on a high-rise building, his movements are steady and skilled.
+A painter is creating an oil painting in her studio, her eyes are focused and passionate.
+A musician is playing the violin on stage, his performance is captivating.
+A photographer is taking landscape photos outdoors, his eyes are focused and serious.
+A dancer is performing modern dance on stage, her dance moves are elegant and moving.
+A coach is guiding students to do yoga in the gym, her movements are soft and smooth.
+A driver is driving a bus, his driving skills are proficient and steady.
+In the sunny park, there is a man walking a dog.
+In the bustling market, there is a woman selecting fruits.
+In the corner of the library, a student is reading attentively.
+t the concert, a pianist is playing a melodious piece.
+On a park bench, an old man is feeding pigeons.
+On the bustling street, a performer is doing acrobatics.
+In the quiet classroom, a teacher is explaining physics formulas to students.
+In the busy kitchen, a chef is stir-frying vegetables.
+On the basketball court in the gym, an athlete is shooting a basket.
+In the field, a farmer is harvesting rice.
+A man in sportswear is jogging in the park, his face glowing with a healthy flush.
+A lady in an apron is cooking in the kitchen, cutting vegetables with focus, surrounded by various fresh ingredients.
+A little boy is playing soccer on the grass, his eyes fixed on the ball, preparing to kick it with full concentration.
+An elderly man with white hair is sitting in a quiet library, reading a thick book seriously, his eyes sparkling with wisdom under his glasses.
+A young couple is dancing under the moonlight, their movements are elegant and coordinated, like a visual poem.
+An athlete is participating in a high jump competition, his body forming a graceful arc in the air as he prepares to clear the bar.
+A swimmer is racing in the pool, her arms powerfully cutting through the water, splashing up a spray.
+A track and field athlete is sprinting with all his might on the track, his face filled with determination and resolve.
+A gymnast is performing on the balance beam, her movements are graceful and precise, perfectly showcasing her skills and strength.
+An archer is drawing his bow, aiming at the target. His eyes are focused, muscles tense, ready to release.
+A weightlifter is attempting to lift the weight, his face filled with power and determination, the entire audience cheering for him.
+A fencer is engaged in a fierce battle with his opponent, their swords flashing, movements quick and precise.
+An equestrian athlete is performing on horseback, her coordination with the horse is seamless, demonstrating excellent skills and control.
+A diver is leaping off the board, his body tumbling in the air, ready to enter the water.
+A rowing athlete is rowing on the lake, his movements are powerful and coordinated, the boat is moving quickly on the water.
+A basketball player is shooting, his eyes are focused, arms raised high, the basketball tracing an arc in the air.
+A football player is sprinting on the field, controlling the football under his feet, his eyes locked on the goal, ready to shoot.
+A table tennis player is fiercely returning the ball, his eyes focused, his wrist flexibly swinging the racket.
+A boxer is battling his opponent in the ring, his fists striking out like lightning.
+A badminton player is jumping on the court, her arm raised high, ready to smash with force.
+A hockey player is sprinting on the field, his eyes locked on the goal, ready to shoot.
+A long jump athlete is sprinting on the track, his body leaping in the air, ready to land.
+A discus thrower is spinning and throwing the discus, his movements are powerful and coordinated, the discus tracing an arc in the air.
+A judo athlete is grappling with his opponent, his movements quick and precise, trying to throw his opponent to the ground.
+A racing driver is speeding in his race car, his eyes focused, hands on the steering wheel, racing towards the finish line.
+A volleyball player is jumping up to spike the ball, his movements are powerful and precise, the ball tracing an arc in the air.
+A handball player is throwing the ball towards the opponent's goal, his eyes are focused, throwing with all his might.
+A baseball player is swinging to hit the ball, his movements are quick and powerful, the baseball speeding through the air.
+A rugby player is sprinting on the field, holding the ball tightly in his hands, rushing towards the finish line.
+A rowing athlete is rowing on the lake, his movements are powerful and coordinated, the boat is moving quickly on the water.
+A track and field athlete is sprinting with all his might, his steps are fast and powerful, his eyes firmly looking ahead.
+A long jump athlete is taking off, his body leaping in the air, ready to land.
+A triathlete is swimming, his arms powerfully cutting through the water, pushing forward with all his might.
+A cyclist is riding, his pedals spinning quickly, racing towards the finish line with all his might.
+A trampoline athlete is tumbling in the air, his body tracing a graceful arc in the air, ready to land.
+A rhythmic gymnastics athlete is performing on the floor, her movements are graceful and smooth, the ribbon in her hand tracing a beautiful trajectory in the air.
+A beach volleyball player is spiking the ball, his movements are powerful and precise, the volleyball tracing an arc in the air.
+A woman is chopping onions, her eyes watering from the pungent smell.
+A little boy is playing with his toy car on the kitchen floor while his mother cooks beside him.
+A couple is preparing dinner together, chopping vegetables and chatting with smiles.
+A man is toasting bread, his face filled with anticipation.
+A girl is washing dishes, her dog waiting beside her for any food that might fall.
+A man is brewing coffee, his face filled with enjoyment.
+A girl is baking a cake, her hands covered in flour.
+An elderly person is peeling potatoes slowly, their gaze focused and calm.
+A boy is learning how to beat eggs, his face full of curiosity and excitement.
+A woman is simmering soup, her face filled with a satisfied smile.
+A boy is washing fruits, his face filled with concentration.
+A woman is flipping a fish in a pan, her face filled with a confident smile.
+An elderly person is stirring dough slowly, their gaze focused and calm.
+A girl is learning how to cook rice, her face full of curiosity and excitement.
+A man is stewing meat, his face filled with an anticipatory smile.
+A man is wiping the kitchen countertop, his face filled with a satisfied expression.
+A girl is decorating her freshly baked cake, her face filled with a proud smile.
+An elderly person is slowly sipping his morning coffee, his gaze focused and calm.
+A boy is learning how to cook pasta, his face full of curiosity and excitement.
+A man is flying a kite on the prairie, his face filled with childlike joy.
+A group of children are playing on the prairie, their laughter echoing in the air.
+A couple is walking on the prairie, hand in hand, enjoying the peaceful moment.
+A woman is doing yoga on the prairie, her body looks so harmonious under the sunlight.
+An old man is painting on the prairie, under his brush is a vibrant scene.
+A photographer is looking for the best shooting angle on the prairie, his eyes are focused and firm.
+A farmer is working on the prairie, his sweat nourishes this land.
+A runner is running on the prairie, his figure looks so tough under the setting sun.
+A knight is galloping on the prairie, the sound of his horse's hooves is like an impassioned symphony.
+A dancer is dancing on the prairie, her dance is as elegant as the wind on the prairie.
+A traveler is camping on the prairie, he is enjoying the tranquility of nature under the starry sky.
+A man wearing a wide-brimmed hat and sunglasses is setting up a tent in the desert.
+A woman is doing yoga in the desert.
+A man is riding a camel in the desert. His hands grip the camel's saddle tightly.
+A young man is chopping down trees in the forest, his face filled with satisfaction and pride.
+Deep in the forest, a lady is carefully gathering herbs, her eyes focused and serene.
+A group of children are playing in the forest, running between the trees, their laughter echoing in the air.
+An old man sits on a rock in the forest, playing a melodious tune on his flute, as if conversing with nature.
+A couple is strolling along a path in the forest, hand in hand, their faces beaming with happy smiles.
+In the bustling city, an artist is drawing portraits on the street, his brush dancing on the paper.
+On the beach, a surfer is challenging the huge waves, his figure looks incredibly determined under the sunlight.
+On the top of the mountain, a climber is admiring the distant scenery, his face filled with satisfaction and pride.
+In the peaceful countryside, a farmer is working in the field, his figure looks so harmonious under the setting sun.
+In the early morning of the forest, a photographer is capturing the beauty of the sunrise, the sunlight filtering through the leaves and falling on his face.
+By the stream in the forest, a woman is washing clothes, the clear stream water flowing through her hands.
+In the night of the forest, a man is telling stories by the bonfire, the light of the bonfire dancing on his face.
+By the lake in the forest, a painter is depicting the reflection on the lake, his brush gently sliding on the canvas.
+Deep in the forest, a man is meditating alone, his face radiating tranquility and peace.
+On the treetops in the forest, a woman is practicing yoga, her posture graceful and firm.
+By the stream in the forest, a man is fishing, his eyes focused and patient.
+In the clearing of the forest, a group of people are dancing around a bonfire, their laughter and singing echoing through the forest.
+At dusk by the sea, a woman is walking alone, her face radiating tranquility and thought.
+On the beach by the sea, a man is building a sandcastle, his eyes focused and full of fun.
+On the rocks by the sea, a painter is depicting the beauty of the waves, his brush gently sliding on the canvas.
+On the dock by the sea, a fisherman is repairing his fishing net, the net in his hands shimmering in the sunlight.
+On the path by the sea, a couple is strolling hand in hand, their faces beaming with happy smiles.
+On the beach by the sea, a group of children are playing, frolicking in the waves, their laughter echoing in the air.
+On the path by the sea, a woman is jogging, her figure looks incredibly determined under the sunlight.
+In the coffee shop by the sea, a couple is enjoying their afternoon tea, their faces beaming with happy smiles.
+Inside the space station, an astronaut is conducting a scientific experiment, his eyes focused and full of curiosity.
+On Earth's orbit, an astronaut is performing a spacewalk, his figure looks incredibly spectacular under the starry sky.
+On the surface of the moon, an astronaut is collecting rock samples, his movements careful and professional.
+Inside the spacecraft, an astronaut is communicating with the Earth headquarters.
+In space, an astronaut is admiring the beauty of the Earth, his eyes full of awe and admiration.
+In the clothing store in the mall, a lady is trying on a dress, her face filled with satisfaction and excitement.
+In the children's play area of the mall, a group of children are playing, their laughter echoing in the air.
+In the food court of the mall, a couple is enjoying their dinner, their faces beaming with happy smiles.
+In the cosmetics store in the mall, a lady is trying a new lipstick, her face filled with satisfaction and excitement.
+In the cinema in the mall, a group of friends are watching a newly released movie, their faces beaming with anticipation and excitement.
+In the home section of the mall, a newlywed couple is selecting furniture, their eyes full of happiness and anticipation.
+In the music store in the mall, a woman is listening to a new record, her face radiating focus and appreciation.
+In the school library, a student is reading a book intently, his eyes full of desire and curiosity.
+On the school playground, a group of students are playing a football match, their faces beaming with competition and excitement.
+In the classroom at school, a teacher is explaining a complex math problem, his eyes focused and serious.
+In the school cafeteria, a group of students are enjoying their lunch.
+In the school laboratory, a student is conducting a scientific experiment.
+In the emergency room of the hospital, a doctor is performing first aid on a patient.
+In the ward of the hospital, a nurse is taking a patient's blood pressure.
+In the operating room of the hospital, a surgeon is performing a complex operation.
+In the pediatric ward of the hospital, a doctor is giving a child a physical examination.
+In the pharmacy of the hospital, a pharmacist is dispensing medication for a patient.
+In the radiology department of the hospital, a technician is performing an X-ray examination for a patient.
+In the ECG room of the hospital, a nurse is conducting an ECG test for an elderly person.
+In the ward of the hospital, a doctor is doing post-operative follow-up for a patient.
+At the reception of the hospital, a receptionist is providing information to visitors.
+In the emergency room of the hospital, a doctor is performing a preliminary examination for a patient who has just been brought in.
+In the dental clinic of the hospital, a dentist is extracting a tooth for a patient.
+He gently moves the chess piece, his eyes focused.
+She skillfully flips the pancake in the frying pan.
+The children are rolling on the grass, full of laughter.
+He carefully inserts the letter into the envelope.
+She pours olive oil from the bottle, ready to start cooking.
+He gently pushes the door open, trying not to make a sound.
+She flips skillfully in the air, leaving the audience in awe.
+The children are rolling in the snow, full of joy.
+He inserts the key into the lock, and the door opens immediately.
+She pours hot water from the kettle, ready to make tea.
+He gently pulls the curtains, and sunlight pours into the room.
+She flips on the stage, agile like a cat.
+The children are rolling on the beach, with sand sticking to their clothes.
+He inserts the credit card into the ATM, ready to withdraw money.
+He gently pushes the drawer open, looking for his notebook.
+He inserts the headphones into the phone and starts listening to music.
+She pours champagne from the bottle to celebrate her birthday.
+He gently swings the swing, enjoying the tranquility of the afternoon.
+She flips in the air, like an elegant swan.
+The children are rolling in the swimming pool, splashing water.
+He inserts the battery into the remote control, ready to watch TV.
+She pours hot tea from the pot, and the aroma of tea fills the air.
+A man is moving a chair to the left.
+A girl is jumping onto a rock.
+A chef is flipping a pan in the kitchen.
+A worker is digging a hole downwards.
+A child is sliding down a slide in the park.
+An athlete is pushing a heavy object forward.
+A painter is smearing paint on a canvas.
+A climber is ascending towards the mountain peak.
+A gardener is watering the plants in the garden.
+A child is building a sandcastle on the beach.
+A musician is playing the piano.
+A dancer is spinning on the stage.
+A girl is moving a stone forward in the desert.
+A little boy is climbing up a tree in the forest.
+A woman is digging a hole downward on the beach.
+A boy is pushing a skateboard to the left in the park.
+A girl is pulling a box to the right in the room.
+A boy is placing a book upward in the library.
+A woman is pushing a shopping cart forward in the supermarket.
+A man is skiing downward on a mountain.
+A girl is moving a flower pot to the left in the garden.
+A boy is swimming forward in the swimming pool.
+A woman is moving a file cabinet upward in the office.
+A boy is kicking a football forward on the playground.
+A woman is placing a plate downward in the kitchen.
+A man is moving a bicycle to the left in the garage.
+A girl is throwing a frisbee to the right in the park.
+A boy is tossing a stone upward by the lake.
+A woman is moving a vase forward in the flower shop.
+A boy is skateboarding down a hill.
+A woman is moving a folder upward in the office.
+A girl is throwing a ball to the right in the park.
+A boy is tossing a frisbee upward by the lake.
